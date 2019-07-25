@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        let btn = UIButton(frame: CGRect(x: 1, y: 1, width: 1, height: 1))
     }
 
 
